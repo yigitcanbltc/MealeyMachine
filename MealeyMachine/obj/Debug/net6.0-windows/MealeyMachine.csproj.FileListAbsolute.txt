@@ -1,0 +1,17 @@
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\bin\Debug\net6.0-windows\MealeyMachine.exe
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\bin\Debug\net6.0-windows\MealeyMachine.deps.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\bin\Debug\net6.0-windows\MealeyMachine.runtimeconfig.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\bin\Debug\net6.0-windows\MealeyMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\bin\Debug\net6.0-windows\MealeyMachine.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.Form1.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.Form2.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.AssemblyInfo.cs
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\refint\MealeyMachine.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\MealeyMachine.genruntimeconfig.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MealeyMachine\obj\Debug\net6.0-windows\ref\MealeyMachine.dll
